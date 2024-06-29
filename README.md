@@ -1,4 +1,4 @@
-#Genius Arduino
+Genius Arduino
 ---
 
 <h2>Descrição:</h2>
