@@ -1,5 +1,5 @@
 # Genius Arduino
----
+
 
 ## Descrição:
 **Projeto criado para LIPE (Laboratorio de Iniciação a programação) na PUC MINAS - Coração Eucaristico, que tem como finalidade reproduzir o mesmo sistemo do jogo Genius, porém elaborado em um arduino UNO R3.**
