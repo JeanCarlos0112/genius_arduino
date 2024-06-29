@@ -8,7 +8,7 @@
 
 ![Projeto Arduino Fisico](./arduinofisico.jpg)
 
-![**link do projeto:**](https://www.tinkercad.com/things/2iErsKXSMNn-genius-arduino)
+[**link do projeto:**](https://www.tinkercad.com/things/2iErsKXSMNn-genius-arduino)
 
 
 
