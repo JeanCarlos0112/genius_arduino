@@ -7,7 +7,7 @@
 ![Projeto Arduino Tinker](./genius_arduino.png)
 
 ---
-
+### Arduino fisico montado de acordo com o projeto do Tinkercad, replicando o sistema do jogo Genius:
 ![Projeto Arduino Fisico](./arduinofisico.jpg)
 
 ### [**LINK DO PROJETO NO TINKERCAD**](https://www.tinkercad.com/things/2iErsKXSMNn-genius-arduino)
